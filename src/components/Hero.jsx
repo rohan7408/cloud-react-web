@@ -30,15 +30,14 @@ const Hero = () => {
               App Security
             </p>
             <p className="flex px-4 py-2  text-slate-500">
-              <FaServer className="h-6 text-indigo-600  mr-1" />
+              <FaServer className="h-6 text-green-600  mr-1" />
               Dashboard Design
             </p>
             <p className="flex px-4 py-2 text-slate-500 ">
-              <FaDatabase className="h-6 text-indigo-600  mr-1" />
-              Cloud Data
+              <FaDatabase className="h-6 text-red-600  mr-1" /> Cloud Data
             </p>
             <p className="flex px-4 py-2 text-slate-500 ">
-              <FaPaperPlane className="h-6 text-indigo-600  mr-1" />
+              <FaPaperPlane className="h-6 text-yellow-600  mr-1" />
               API
             </p>
           </div>
